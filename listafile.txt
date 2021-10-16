@@ -1,0 +1,15 @@
+.eclipse
+.VirtualBox
+Collegamenti
+Contatti
+Desktop
+Documenti
+Download
+Immagini
+Musica
+Oggetti 3D
+OneDrive
+Partite Salvate
+Preferiti
+Ricerche
+Video
